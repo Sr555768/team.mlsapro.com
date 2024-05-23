@@ -1,0 +1,15 @@
+{
+  "name": "e-learning",
+  "short_name": "e-learning",
+  "icons": [
+    {
+      "src": "./img/icons/favicon.png",
+      "sizes": "75x74",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#4DBA87"
+}
